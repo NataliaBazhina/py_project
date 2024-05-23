@@ -8,4 +8,4 @@ def subtract_numbers():
     print(int(a) - int(b))
 
 
-subtract_numbers()
+
